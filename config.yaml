@@ -1,0 +1,13 @@
+# クラス名
+CLASS_NAMES:
+  pos
+  neg
+
+MODEL:
+  # 学習済みモデルの保存先
+  SAVE_WEIGHT: './trained_weights.pth'
+  # epoch数
+  EPOCH: 2
+
+
+
