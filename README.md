@@ -11,6 +11,7 @@ pip install torch
 pip install torchvision
 pip install tqdm
 pip install sklearn
+pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
 ```
  
 # Usage
